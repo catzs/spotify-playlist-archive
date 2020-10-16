@@ -436,7 +436,7 @@ def update_files(now):
             line1 = f.readline()
             print(line1)
             if "custom:" in line1: #only add the name if it's custom
-                playlist_nammes.add((filename, True, line1))
+                playlist_nammes.add((filename, True, line1.replace("custom:",'')))
             else:
                 playlist_nammes.add((filename, False))
 
