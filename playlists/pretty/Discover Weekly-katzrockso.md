@@ -1,6 +1,6 @@
-pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/cumulative/discover%20weekly-katzrockso.md) - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcJR8Ys0NBejf) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcJR8Ys0NBejf))
+pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/cumulative/Discover%20Weekly-katzrockso.md) - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcJR8Ys0NBejf) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcJR8Ys0NBejf))
 
-### [discover weekly-katzrockso](https://open.spotify.com/playlist/37i9dQZEVXcJR8Ys0NBejf)
+### [Discover Weekly-katzrockso](https://open.spotify.com/playlist/37i9dQZEVXcJR8Ys0NBejf)
 
 > Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.
 

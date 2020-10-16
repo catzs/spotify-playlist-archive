@@ -1,6 +1,6 @@
-pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/cumulative/daily%20mix%203-katzrockso.md) - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E36ynxJ5AehAY) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E36ynxJ5AehAY))
+pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/cumulative/Daily%20Mix%203-katzrockso.md) - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E36ynxJ5AehAY) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E36ynxJ5AehAY))
 
-### [daily mix 3-katzrockso](https://open.spotify.com/playlist/37i9dQZF1E36ynxJ5AehAY)
+### [Daily Mix 3-katzrockso](https://open.spotify.com/playlist/37i9dQZF1E36ynxJ5AehAY)
 
 > Astrid S, Ariana Grande, Gabrielle Aplin and more
 

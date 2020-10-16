@@ -1,6 +1,6 @@
-[pretty](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/pretty/daily%20mix%204-katzrockso.md) - cumulative - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37K9GyasmvkS) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37K9GyasmvkS))
+[pretty](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/pretty/Daily%20Mix%204-katzrockso.md) - cumulative - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37K9GyasmvkS) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37K9GyasmvkS))
 
-### [daily mix 4-katzrockso](https://open.spotify.com/playlist/37i9dQZF1E37K9GyasmvkS)
+### [Daily Mix 4-katzrockso](https://open.spotify.com/playlist/37i9dQZF1E37K9GyasmvkS)
 
 > 2NE1, ITZY, CHUNG HA and more
 

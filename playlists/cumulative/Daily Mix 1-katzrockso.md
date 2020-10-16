@@ -1,6 +1,6 @@
-[pretty](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/pretty/daily%20mix%201-katzrockso.md) - cumulative - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37gRKKOu8Pkb) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37gRKKOu8Pkb))
+[pretty](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/pretty/Daily%20Mix%201-katzrockso.md) - cumulative - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37gRKKOu8Pkb) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37gRKKOu8Pkb))
 
-### [daily mix 1-katzrockso](https://open.spotify.com/playlist/37i9dQZF1E37gRKKOu8Pkb)
+### [Daily Mix 1-katzrockso](https://open.spotify.com/playlist/37i9dQZF1E37gRKKOu8Pkb)
 
 > Nicki Minaj, Azealia Banks, Andra Day and more
 

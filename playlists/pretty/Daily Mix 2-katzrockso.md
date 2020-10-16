@@ -1,6 +1,6 @@
-pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/cumulative/daily%20mix%202-katzrockso.md) - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37tnnl8l6bPx) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37tnnl8l6bPx))
+pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/cumulative/Daily%20Mix%202-katzrockso.md) - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37tnnl8l6bPx) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E37tnnl8l6bPx))
 
-### [daily mix 2-katzrockso](https://open.spotify.com/playlist/37i9dQZF1E37tnnl8l6bPx)
+### [Daily Mix 2-katzrockso](https://open.spotify.com/playlist/37i9dQZF1E37tnnl8l6bPx)
 
 > Kesha, Maude Latour, Shura and more
 
