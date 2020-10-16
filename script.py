@@ -522,8 +522,8 @@ def push_updates(now):
     print("Configuring git")
 
     config = ["git", "config", "--global"]
-    config_name = run(config + ["user.name", "Mack Ward (Bot Account)"])
-    config_email = run(config + ["user.email", "mackorone.bot@gmail.com"])
+    config_name = run(config + ["user.name", "catzs"])
+    config_email = run(config + ["user.email", "elijonlogan@yahoo.com"])
 
     if config_name.returncode != 0:
         raise Exception("Failed to configure name")
