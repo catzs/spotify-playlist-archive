@@ -441,6 +441,7 @@ def update_files(now):
 
     readme_lines = []
     for tup in playlist_nammes:
+        print(tup)
         playlist_id=tup[0] #to avoid changing code, just set playlist_id this way
         customBool=tup[1] #a boolean for whether or not the playlist has a name that differs from the official spotify one
         plain_path = "{}/{}".format(plain_dir, playlist_id)
