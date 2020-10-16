@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Daddy Issues Radio](https://open.spotify.com/playlist/37i9dQZF1E8ACEnwvMau4r)
 
-> With Demi Lovato, Hailee Steinfeld, Wiz Khalifa, Charli XCX and more
+> With Demi Lovato, Wiz Khalifa, Camila Cabello, Christina Aguilera and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
