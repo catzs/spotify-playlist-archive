@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Nicki Minaj Radio](https://open.spotify.com/playlist/37i9dQZF1E4mxfyRNNOPtb)
 
-> With Fifth Harmony, Mikky Ekko, Jeremih and more
+> With Chris Brown, Rihanna, Jessie J and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

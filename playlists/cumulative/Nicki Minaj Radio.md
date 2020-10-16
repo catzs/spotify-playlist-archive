@@ -2,7 +2,7 @@
 
 ### [Nicki Minaj Radio](https://open.spotify.com/playlist/37i9dQZF1E4mxfyRNNOPtb)
 
-> With Fifth Harmony, Mikky Ekko, Jeremih and more
+> With Chris Brown, Rihanna, Jessie J and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

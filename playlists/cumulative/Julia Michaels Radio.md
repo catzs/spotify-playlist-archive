@@ -2,7 +2,7 @@
 
 ### [Julia Michaels Radio](https://open.spotify.com/playlist/37i9dQZF1E4vs6jvq0Q4EX)
 
-> With Sasha Sloan, AJ Mitchell, CADE and more
+> With Selena Gomez, Bebe Rexha, Bea Miller and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

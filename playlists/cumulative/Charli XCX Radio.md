@@ -2,7 +2,7 @@
 
 ### [Charli XCX Radio](https://open.spotify.com/playlist/37i9dQZF1E4n5NkrPpNjuC)
 
-> With Rina Sawayama, MARINA, 100 gecs and more
+> With Christine and the Queens, MUNA, cupcakKe and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

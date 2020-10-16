@@ -2,7 +2,7 @@
 
 ### [Rina Sawayama Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dq1yGvTPwrh)
 
-> With Kali Uchis, 100 gecs, Grimes and more
+> With Jhay Cortez, LOOΠΔ / ODD EYE CIRCLE, Kilo Kish and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

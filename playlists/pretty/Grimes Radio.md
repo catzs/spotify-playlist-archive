@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Charli XCX, Warpaint, Tennis and more
+> With Beach House, Robert Smith, Slayyyter and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

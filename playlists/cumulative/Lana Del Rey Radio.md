@@ -2,7 +2,7 @@
 
 ### [Lana Del Rey Radio](https://open.spotify.com/playlist/37i9dQZF1E4sa1kOvRGgMb)
 
-> With Birdy, Wallows, The xx and more
+> With BØRNS, Kali Uchis, Iggy Azalea and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Alessia Cara Radio](https://open.spotify.com/playlist/37i9dQZF1E4vNDfTBTUyM3)
 
-> With Niall Horan, Young Thug, Ruth B. and more
+> With Halsey, Olivia O'Brien, Meghan Trainor and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

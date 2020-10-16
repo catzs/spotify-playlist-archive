@@ -2,7 +2,7 @@
 
 ### [Carly Rae Jepsen Radio](https://open.spotify.com/playlist/37i9dQZF1E4EmGFMzkENF2)
 
-> With Lorde, Bleachers, Robyn and more
+> With Troye Sivan, Ariana Grande, Icona Pop and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

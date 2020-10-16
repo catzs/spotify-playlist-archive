@@ -2,7 +2,7 @@
 
 ### [Sigrid Radio](https://open.spotify.com/playlist/37i9dQZF1E4vSsX3DEvRfB)
 
-> With LÉON, Allie X, The Aces and more
+> With LÉON, Chris Holsten, CLMD and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

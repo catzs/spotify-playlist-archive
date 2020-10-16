@@ -2,7 +2,7 @@
 
 ### [Billie Eilish Radio](https://open.spotify.com/playlist/37i9dQZF1E4oee5QSbfqLN)
 
-> With Olivia O'Brien, Khalid, ZAYN and more
+> With Tate McRae, Conan Gray, Khalid and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

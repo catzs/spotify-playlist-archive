@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Kim Petras Radio](https://open.spotify.com/playlist/37i9dQZF1E4AmdoYf3abXY)
 
-> With Sky Ferreira, Tove Lo, Slayyyter and more
+> With Aly & AJ, Hippie Sabotage, Alan Walker and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Katy Perry Radio](https://open.spotify.com/playlist/37i9dQZF1E4mMkvfFGsS30)
 
-> With Migos, DaBaby, P!nk and more
+> With Julia Michaels, Tyga, Rita Ora and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

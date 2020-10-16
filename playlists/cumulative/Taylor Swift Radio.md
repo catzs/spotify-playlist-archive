@@ -2,7 +2,7 @@
 
 ### [Taylor Swift Radio](https://open.spotify.com/playlist/37i9dQZF1E4AfEUiirXPyP)
 
-> With Ariana Grande, Ed Sheeran, Katy Perry and more
+> With Ed Sheeran, Carrie Underwood, Little Mix and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

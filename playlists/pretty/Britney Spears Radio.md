@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Britney Spears Radio](https://open.spotify.com/playlist/37i9dQZF1E4nr6hJNUgTDh)
 
-> With Fifth Harmony, MARINA, Carly Rae Jepsen and more
+> With Jessie J, Nicki Minaj, Cher Lloyd and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

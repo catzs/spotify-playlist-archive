@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Rihanna Radio](https://open.spotify.com/playlist/37i9dQZF1E4nqrwpUzdAQS)
 
-> With Ella Mai, Drake, Cardi B and more
+> With Britney Spears, Maluma, B.o.B and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

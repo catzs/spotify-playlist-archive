@@ -2,7 +2,7 @@
 
 ### [Ava Max Radio](https://open.spotify.com/playlist/37i9dQZF1E4ppGtqqkuRvH)
 
-> With 24kGoldn, Rita Ora, Joker Bra and more
+> With Fifth Harmony, Felix Jaehn, Selena Gomez and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

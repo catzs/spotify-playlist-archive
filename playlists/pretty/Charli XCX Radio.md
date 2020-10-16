@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Charli XCX Radio](https://open.spotify.com/playlist/37i9dQZF1E4n5NkrPpNjuC)
 
-> With Rina Sawayama, MARINA, 100 gecs and more
+> With Christine and the Queens, MUNA, cupcakKe and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

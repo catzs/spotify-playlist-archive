@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Ariana Grande Radio](https://open.spotify.com/playlist/37i9dQZF1E4xstu1WxmJS4)
 
-> With Camila Cabello, Miley Cyrus, Zedd and more
+> With Camila Cabello, Young Thug, DNCE and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

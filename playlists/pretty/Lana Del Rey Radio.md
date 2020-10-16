@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Lana Del Rey Radio](https://open.spotify.com/playlist/37i9dQZF1E4sa1kOvRGgMb)
 
-> With Birdy, Wallows, The xx and more
+> With BØRNS, Kali Uchis, Iggy Azalea and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Sigrid Radio](https://open.spotify.com/playlist/37i9dQZF1E4vSsX3DEvRfB)
 
-> With LÉON, Allie X, The Aces and more
+> With LÉON, Chris Holsten, CLMD and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Daddy Issues Radio](https://open.spotify.com/playlist/37i9dQZF1E8ACEnwvMau4r)
 
-> With Demi Lovato, Bebe Rexha, Offset, Hayley Kiyoko and more
+> With Demi Lovato, Christina Aguilera, Nicki Minaj, Rita Ora and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

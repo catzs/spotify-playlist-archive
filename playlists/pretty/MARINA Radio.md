@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [MARINA Radio](https://open.spotify.com/playlist/37i9dQZF1E4tJ3C2Jji1T9)
 
-> With Carly Rae Jepsen, Lily Allen, Beach Bunny and more
+> With Grimes, dodie, Beach Bunny and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Halsey Radio](https://open.spotify.com/playlist/37i9dQZF1E4oLwlqvXisyU)
 
-> With FLETCHER, Ellie Goulding, 5 Seconds of Summer and more
+> With Zara Larsson, Hailee Steinfeld, Bebe Rexha and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

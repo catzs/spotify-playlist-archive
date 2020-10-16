@@ -2,7 +2,7 @@
 
 ### [Lorde Radio](https://open.spotify.com/playlist/37i9dQZF1E4FIgyPlgKOlU)
 
-> With Lana Del Rey, Maggie Rogers, MØ and more
+> With COIN, Maggie Rogers, MØ and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

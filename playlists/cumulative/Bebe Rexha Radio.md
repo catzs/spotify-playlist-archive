@@ -2,7 +2,7 @@
 
 ### [Bebe Rexha Radio](https://open.spotify.com/playlist/37i9dQZF1E4EUS7H8nnimP)
 
-> With Clean Bandit, DNCE, Halsey and more
+> With Halsey, Florida Georgia Line, Little Mix and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
