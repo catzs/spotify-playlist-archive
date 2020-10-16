@@ -2,7 +2,7 @@
 
 ### [SHY Martin Radio](https://open.spotify.com/playlist/37i9dQZF1E4xdD179lgvAc)
 
-> With Seeb, Alexander 23, Astrid S and more
+> With Sasha Sloan, Anna Clendening, Gavin Haley and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

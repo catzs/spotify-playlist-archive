@@ -2,7 +2,7 @@
 
 ### [Kim Petras Radio](https://open.spotify.com/playlist/37i9dQZF1E4AmdoYf3abXY)
 
-> With Aly & AJ, Hippie Sabotage, Alan Walker and more
+> With Sky Ferreira, Aly & AJ, Rina Sawayama and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

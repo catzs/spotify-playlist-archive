@@ -2,7 +2,7 @@
 
 ### [Nicki Minaj Radio](https://open.spotify.com/playlist/37i9dQZF1E4mxfyRNNOPtb)
 
-> With Chris Brown, Rihanna, Jessie J and more
+> With Fifth Harmony, Trey Songz, Calvin Harris and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

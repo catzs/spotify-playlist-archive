@@ -2,7 +2,7 @@
 
 ### [AURORA Radio](https://open.spotify.com/playlist/37i9dQZF1E4mau3yRxRG2A)
 
-> With Grimes, Sigrid, Winona Oak and more
+> With Future, Billie Marten, SYML and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

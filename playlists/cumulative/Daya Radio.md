@@ -2,7 +2,7 @@
 
 ### [Daya Radio](https://open.spotify.com/playlist/37i9dQZF1E4FhJpQJRO2D2)
 
-> With Hailee Steinfeld, NOTD, HRVY and more
+> With Georgia Ku, Ty Dolla $ign, DNCE and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

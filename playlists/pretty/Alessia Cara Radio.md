@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Alessia Cara Radio](https://open.spotify.com/playlist/37i9dQZF1E4vNDfTBTUyM3)
 
-> With Halsey, Olivia O'Brien, Meghan Trainor and more
+> With Halsey, Tyga, Meghan Trainor and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

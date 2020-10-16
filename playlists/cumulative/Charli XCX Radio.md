@@ -2,7 +2,7 @@
 
 ### [Charli XCX Radio](https://open.spotify.com/playlist/37i9dQZF1E4n5NkrPpNjuC)
 
-> With Christine and the Queens, MUNA, cupcakKe and more
+> With Troye Sivan, MUNA, Carly Rae Jepsen and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

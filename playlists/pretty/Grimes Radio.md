@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Beach House, Robert Smith, Slayyyter and more
+> With Rina Sawayama, Oneohtrix Point Never, Washed Out and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

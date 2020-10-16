@@ -2,7 +2,7 @@
 
 ### [Lana Del Rey Radio](https://open.spotify.com/playlist/37i9dQZF1E4sa1kOvRGgMb)
 
-> With BØRNS, Kali Uchis, Iggy Azalea and more
+> With girl in red, Labrinth, RHODES and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

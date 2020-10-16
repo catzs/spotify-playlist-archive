@@ -2,7 +2,7 @@
 
 ### [Natalia Kills Radio](https://open.spotify.com/playlist/37i9dQZF1E4oiPcqKEwLwn)
 
-> With Poppy, Kim Petras, Paris Hilton and more
+> With Azealia Banks, Lazy Jay, will.i.am and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

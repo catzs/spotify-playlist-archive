@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Kesha Radio](https://open.spotify.com/playlist/37i9dQZF1E4A0wlhq5wu0V)
 
-> With Britney Spears, Natasha Bedingfield, Ryan Tedder and more
+> With Puri, Chris Brown, Taio Cruz and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

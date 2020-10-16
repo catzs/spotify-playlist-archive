@@ -2,7 +2,7 @@
 
 ### [Demi Lovato Radio](https://open.spotify.com/playlist/37i9dQZF1E4C9H2rljyRBR)
 
-> With Cher Lloyd, Kid Ink, Young Thug and more
+> With Avril Lavigne, Miley Cyrus, Little Mix and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

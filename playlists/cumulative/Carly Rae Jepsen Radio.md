@@ -2,7 +2,7 @@
 
 ### [Carly Rae Jepsen Radio](https://open.spotify.com/playlist/37i9dQZF1E4EmGFMzkENF2)
 
-> With Troye Sivan, Ariana Grande, Icona Pop and more
+> With King Princess, Charli XCX, MUNA and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

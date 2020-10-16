@@ -2,7 +2,7 @@
 
 ### [Bebe Rexha Radio](https://open.spotify.com/playlist/37i9dQZF1E4EUS7H8nnimP)
 
-> With Halsey, Florida Georgia Line, Little Mix and more
+> With DNCE, Bea Miller, Fifth Harmony and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

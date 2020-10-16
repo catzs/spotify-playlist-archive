@@ -2,7 +2,7 @@
 
 ### [Katy Perry Radio](https://open.spotify.com/playlist/37i9dQZF1E4mMkvfFGsS30)
 
-> With Julia Michaels, Tyga, Rita Ora and more
+> With Britney Spears, Florida Georgia Line, Nate Ruess and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

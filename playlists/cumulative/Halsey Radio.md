@@ -2,7 +2,7 @@
 
 ### [Halsey Radio](https://open.spotify.com/playlist/37i9dQZF1E4oLwlqvXisyU)
 
-> With Zara Larsson, Hailee Steinfeld, Bebe Rexha and more
+> With Zara Larsson, King Princess, Sabrina Carpenter and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

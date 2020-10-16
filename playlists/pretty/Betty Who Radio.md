@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Betty Who Radio](https://open.spotify.com/playlist/37i9dQZF1E4vDS5kv5RmEo)
 
-> With The Japanese House, Bleachers, HAIM and more
+> With King Princess, Bleachers, gnash and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

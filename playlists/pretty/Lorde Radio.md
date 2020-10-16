@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Lorde Radio](https://open.spotify.com/playlist/37i9dQZF1E4FIgyPlgKOlU)
 
-> With COIN, Maggie Rogers, MØ and more
+> With King Princess, Troye Sivan, Maggie Rogers and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

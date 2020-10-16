@@ -2,7 +2,7 @@
 
 ### [Lorde Radio](https://open.spotify.com/playlist/37i9dQZF1E4FIgyPlgKOlU)
 
-> With COIN, Maggie Rogers, MØ and more
+> With King Princess, Troye Sivan, Maggie Rogers and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

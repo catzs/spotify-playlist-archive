@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Daya Radio](https://open.spotify.com/playlist/37i9dQZF1E4FhJpQJRO2D2)
 
-> With Hailee Steinfeld, NOTD, HRVY and more
+> With Georgia Ku, Ty Dolla $ign, DNCE and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

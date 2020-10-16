@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Billie Eilish Radio](https://open.spotify.com/playlist/37i9dQZF1E4oee5QSbfqLN)
 
-> With Tate McRae, Conan Gray, Khalid and more
+> With Conan Gray, Selena Gomez, Alessia Cara and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

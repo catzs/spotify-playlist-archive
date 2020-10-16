@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Bebe Rexha Radio](https://open.spotify.com/playlist/37i9dQZF1E4EUS7H8nnimP)
 
-> With Halsey, Florida Georgia Line, Little Mix and more
+> With DNCE, Bea Miller, Fifth Harmony and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

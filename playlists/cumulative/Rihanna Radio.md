@@ -2,7 +2,7 @@
 
 ### [Rihanna Radio](https://open.spotify.com/playlist/37i9dQZF1E4nqrwpUzdAQS)
 
-> With Britney Spears, Maluma, B.o.B and more
+> With Demi Lovato, Kanye West, Jennifer Lopez and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Ava Max Radio](https://open.spotify.com/playlist/37i9dQZF1E4ppGtqqkuRvH)
 
-> With Fifth Harmony, Felix Jaehn, Selena Gomez and more
+> With Selena Gomez, Nea, Zara Larsson and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

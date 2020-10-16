@@ -2,7 +2,7 @@
 
 ### [Kesha Radio](https://open.spotify.com/playlist/37i9dQZF1E4A0wlhq5wu0V)
 
-> With Britney Spears, Natasha Bedingfield, Ryan Tedder and more
+> With Puri, Chris Brown, Taio Cruz and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

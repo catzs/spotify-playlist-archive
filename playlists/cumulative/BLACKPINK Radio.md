@@ -2,7 +2,7 @@
 
 ### [BLACKPINK Radio](https://open.spotify.com/playlist/37i9dQZF1E4m0uHm6DE1DC)
 
-> With (G)I-DLE, fromis_9, Monsta X and more
+> With IU, EXO, Selena Gomez and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

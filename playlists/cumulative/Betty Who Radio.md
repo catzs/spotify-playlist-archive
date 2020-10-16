@@ -2,7 +2,7 @@
 
 ### [Betty Who Radio](https://open.spotify.com/playlist/37i9dQZF1E4vDS5kv5RmEo)
 
-> With The Japanese House, Bleachers, HAIM and more
+> With King Princess, Bleachers, gnash and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

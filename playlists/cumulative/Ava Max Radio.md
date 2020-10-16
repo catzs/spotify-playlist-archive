@@ -2,7 +2,7 @@
 
 ### [Ava Max Radio](https://open.spotify.com/playlist/37i9dQZF1E4ppGtqqkuRvH)
 
-> With Fifth Harmony, Felix Jaehn, Selena Gomez and more
+> With Selena Gomez, Nea, Zara Larsson and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

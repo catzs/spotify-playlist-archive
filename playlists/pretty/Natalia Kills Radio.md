@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Natalia Kills Radio](https://open.spotify.com/playlist/37i9dQZF1E4oiPcqKEwLwn)
 
-> With Poppy, Kim Petras, Paris Hilton and more
+> With Azealia Banks, Lazy Jay, will.i.am and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

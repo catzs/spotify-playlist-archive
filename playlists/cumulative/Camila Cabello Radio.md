@@ -2,7 +2,7 @@
 
 ### [Camila Cabello Radio](https://open.spotify.com/playlist/37i9dQZF1E4o3n1vA5RVRd)
 
-> With Selena Gomez, Niall Horan, Quavo and more
+> With Ava Max, Shawn Mendes, Florida Georgia Line and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

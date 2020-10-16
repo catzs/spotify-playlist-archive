@@ -2,7 +2,7 @@
 
 ### [Billie Eilish Radio](https://open.spotify.com/playlist/37i9dQZF1E4oee5QSbfqLN)
 
-> With Tate McRae, Conan Gray, Khalid and more
+> With Conan Gray, Selena Gomez, Alessia Cara and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

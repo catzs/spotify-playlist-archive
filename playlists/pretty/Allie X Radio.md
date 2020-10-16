@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Allie X Radio](https://open.spotify.com/playlist/37i9dQZF1E4Cg1YYrd1Os8)
 
-> With MARINA, Troye Sivan, Aly & AJ and more
+> With MARINA, Troye Sivan, VÉRITÉ and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

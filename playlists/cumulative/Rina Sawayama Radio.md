@@ -2,7 +2,7 @@
 
 ### [Rina Sawayama Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dq1yGvTPwrh)
 
-> With Jhay Cortez, LOOΠΔ / ODD EYE CIRCLE, Kilo Kish and more
+> With Carly Rae Jepsen, Dylan Brady, Poppy and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
