@@ -448,7 +448,7 @@ def update_files(now):
         try:
             playlis = spotify.get_playlist(playlist_id) #changed playlist to playlis because it's a tuple and we might need to change it, though there are more compact ways doing it, i'm trying to modify the minimum amount of code
             if len(tup)>2 and not tup[2]==playlis[1]: #if there exists a name that differs from the one that spotify generated, then change the name element in playlist to the custom playlist name
-                playlist=playlis[:1] + (tup[2],) + playlis[2:] #create modified tuple if there is a custom name
+                playlist=Playlist(url=playlist[0], name=tup[2], description=playlis[2], tracks=playlis[3]) #create modified tuple if there is a custom name
             else:
                 playlist=playlis #retain original tuple if there is no custom name
         except PrivatePlaylistError:
@@ -479,6 +479,7 @@ def update_files(now):
                     args = [now, prev_content, playlist_id, playlist]
                 if flag2 and customBool: #ensures it will only pass the modified data if the playlist actually has a custom name AND only to the plain file
                     args = [playlist_id, playlist[:1] + ("custom:"+playlist[1],) + playlist[2:]] #sends a modified playlist tuple that includes "custom" at the beginning
+       
                 else:
                     args = [playlist_id, playlist]
 
