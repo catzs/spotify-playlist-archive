@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Daddy Issues Radio](https://open.spotify.com/playlist/37i9dQZF1E8ACEnwvMau4r)
 
-> With Demi Lovato, Halsey, Quavo, Gucci Mane and more
+> With Demi Lovato, Madison Beer, Kelly Clarkson, Charli XCX and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
