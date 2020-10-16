@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Daddy Issues Radio](https://open.spotify.com/playlist/37i9dQZF1E8ACEnwvMau4r)
 
-> With Demi Lovato, Ty Dolla $ign, Aly & AJ, Nicki Minaj and more
+> With Demi Lovato, Camila Cabello, Nick Jonas, Quavo and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
