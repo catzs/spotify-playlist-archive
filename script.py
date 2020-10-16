@@ -542,6 +542,7 @@ def push_updates(now):
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
     message = "[skip ci] Build #{} ({})".format(build, now_str)
     commit = run(["git", "commit", "-m", message])
+    print(commit.returncode)
     if commit.returncode != 0:
         raise Exception("Failed to commit changes")
 
