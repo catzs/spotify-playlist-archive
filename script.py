@@ -479,7 +479,6 @@ def update_files(now):
                     args = [now, prev_content, playlist_id, playlist]
                 if flag2 and customBool: #ensures it will only pass the modified data if the playlist actually has a custom name AND only to the plain file
                     args = [playlist_id, Playlist(url=playlist[0], name="custom:"+playlist[1], description=playlist[2], tracks=playlist[3])] #sends a modified playlist tuple that includes "custom" at the beginning
-                
                 else:
                     args = [playlist_id, playlist]
 
