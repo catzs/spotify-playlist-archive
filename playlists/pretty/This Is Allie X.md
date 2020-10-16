@@ -1,0 +1,41 @@
+pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/cumulative/This%20Is%20Allie%20X.md) - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DZ06evO0f0Aes) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DZ06evO0f0Aes))
+
+### [This Is Allie X](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0f0Aes)
+
+> This is Allie X. The essential tracks, all in one playlist.
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Bitch](https://open.spotify.com/track/1CVQ8euBNROz7KDPeNqwWE) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Collxtion I](https://open.spotify.com/album/2vRvnMqmqw8DUpUEVEynXt) | 3:27 |
+| 2 | [Susie Save Your Love](https://open.spotify.com/track/32tUYhAygMdx9XxFxxj3It) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:58 |
+| 3 | [Paper Love](https://open.spotify.com/track/2QffgsYVZkvMQsZmQdgf2L) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg) | 3:17 |
+| 4 | [Girl Of The Year](https://open.spotify.com/track/2994N2DpvyCy4gIRS06wLb) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK) | 3:44 |
+| 5 | [Hello](https://open.spotify.com/track/5s1VKglR9uPZL6H3VVNK9P) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Collxtion I](https://open.spotify.com/album/2vRvnMqmqw8DUpUEVEynXt) | 3:48 |
+| 6 | [Devil I Know](https://open.spotify.com/track/4GSqiK9YdVNhilXMFtCiQB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 2:52 |
+| 7 | [Downtown](https://open.spotify.com/track/5ckUvSqW1Oaucm19P6VmIK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg) | 3:57 |
+| 8 | [Love Me Wrong](https://open.spotify.com/track/59uEiooaCUECb1fMmo6Sr9) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Love Me Wrong](https://open.spotify.com/album/5Qd3rWZavleUmV0pwBUjNF) | 3:12 |
+| 9 | [Casanova](https://open.spotify.com/track/18L5VERD6h5q6PVjQAVVa2) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Casanova](https://open.spotify.com/album/7tasMOhj9xj0Z31fN4Ojpf) | 3:46 |
+| 10 | [Super Duper Party People](https://open.spotify.com/track/7ktS8xxspFseXxQecbg5Ll) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:49 |
+| 11 | [That's So Us](https://open.spotify.com/track/6ZL81xHZNBRYM7MO3tiVTP) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg) | 3:35 |
+| 12 | [Not So Bad In LA](https://open.spotify.com/track/64Qag843DEJ8kq9OK352vh) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK) | 2:50 |
+| 13 | [Catch](https://open.spotify.com/track/1SZM0TLV6HW5xwApECIbdN) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Collxtion I](https://open.spotify.com/album/2vRvnMqmqw8DUpUEVEynXt) | 3:45 |
+| 14 | [Fresh Laundry](https://open.spotify.com/track/59OLI17MahTupGhjyxaslJ) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:56 |
+| 15 | [Lifted](https://open.spotify.com/track/10NC0oUwDcsO29sXSugQCP) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg) | 3:14 |
+| 16 | [Science](https://open.spotify.com/track/6OteeaJa1FSjBA6o1Ixwfq) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK) | 3:55 |
+| 17 | [All the Rage](https://open.spotify.com/track/3YluA8dmCEws59Nm2JHnss) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/58ppn50PYPsFVVkC2L7eFs) | 3:06 |
+| 18 | [Regulars](https://open.spotify.com/track/2N9pECqK6IWg5XMFstXQWA) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:41 |
+| 19 | [Old Habits Die Hard](https://open.spotify.com/track/4t5Kh63jqmLziFH9ez6UGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg) | 3:41 |
+| 20 | [Prime](https://open.spotify.com/track/6cAmmW37tXpfUtbhJcEnTv) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Collxtion I](https://open.spotify.com/album/2vRvnMqmqw8DUpUEVEynXt) | 4:13 |
+| 21 | [Little Things](https://open.spotify.com/track/6zWhMT3KpLOQ8eHQjiR7UO) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK) | 3:08 |
+| 22 | [Sarah Come Home](https://open.spotify.com/track/0178e3xmFBH9dboFXVeNya) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:33 |
+| 23 | [Vintage](https://open.spotify.com/track/54DsyICxMms5vGsaUwrzlY) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg) | 3:39 |
+| 24 | [Sanctuary](https://open.spotify.com/track/0iX2V1l2BIoIxZvEOeKXM6) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Collxtion I](https://open.spotify.com/album/2vRvnMqmqw8DUpUEVEynXt) | 4:39 |
+| 25 | [Can't Stop Now](https://open.spotify.com/track/7MjbsO0p4zGyuM9xSnEcF9) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK) | 3:03 |
+| 26 | [Too Much to Dream](https://open.spotify.com/track/5TjIZCIDgYdsQimJdMpCJ2) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Too Much to Dream](https://open.spotify.com/album/4LtKD2aZuzvC4KsmxAT3mV) | 3:17 |
+| 27 | [Alexandra](https://open.spotify.com/track/7BsbbwN45zZ549OBUp1VVV) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Alexandra](https://open.spotify.com/album/4TCks7ejdeIe2IRVgTtHUF) | 3:44 |
+| 28 | [Good](https://open.spotify.com/track/1lkY2LapHfItRKTDpWoZli) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Collxtion I](https://open.spotify.com/album/2vRvnMqmqw8DUpUEVEynXt) | 4:13 |
+| 29 | [Focus](https://open.spotify.com/track/3TIaRAllPFMEfwVoY6ue4l) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK) | 3:47 |
+| 30 | [Kid Wonder](https://open.spotify.com/track/3GRsKGJZeo3hGv3wWWFSNn) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Sierra Burgess is a Loser (Original Motion Picture Soundtrack)](https://open.spotify.com/album/0QhI25dZTgZzqttp7iyiy8) | 2:47 |
+| 31 | [Misbelieving](https://open.spotify.com/track/29VPwR2Do4NtybwjqgnH3l) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Misbelieving](https://open.spotify.com/album/06FaDIW9Qv5h7nWmjwO5Nn) | 2:51 |
+| 32 | [Purge](https://open.spotify.com/track/2j5vJ9sHWMGHPME2vD1Kj9) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Purge](https://open.spotify.com/album/5YFnziqCtWUBCl9cdgbUXC) | 3:28 |
+| 33 | [Sunflower - Synth Reprise](https://open.spotify.com/track/0eY4bbVAkCKe95Rd37y5r6) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Sierra Burgess is a Loser (Original Motion Picture Soundtrack)](https://open.spotify.com/album/0QhI25dZTgZzqttp7iyiy8) | 3:36 |
