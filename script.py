@@ -540,11 +540,11 @@ def push_updates(now):
         return
 
     print("Configuring git")
-    
+
     config = ["git", "config", "--global"]
     config_name = run(config + ["user.name", "catzs"])
     email = os.getenv("EMAIL")
-    config_email = run(config + ["user.email", EMAIL])
+    config_email = run(config + ["user.email", email])
 
     if config_name.returncode != 0:
         raise Exception("Failed to configure name")
