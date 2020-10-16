@@ -84,7 +84,8 @@ class Spotify:
         url = self._get_url(response["external_urls"])
 
         # Playlist names can't have "/" so use "\" instead
-        name = response["name"].replace("/", "\\")
+        name = response["name"].replace("/", " ")
+        name = response["name"].replace(":", "")
         description = response["description"]
         tracks = self._get_tracks(playlist_id)
 
