@@ -428,29 +428,13 @@ def update_files(now):
     # This makes it easy to add new a playlist: just touch an empty file like
     # playlists/plain/<playlist_id> and this script will handle the rest.
     playlist_ids = os.listdir(plain_dir)
-    
-    # get names and ids in a set of tuples - format being (playlist_id, playlist_name)
-    playlist_nammes = set()
-    for filename in os.listdir(plain_dir):
-        with open(os.path.join(plain_dir, filename)) as f:
-            line1 = f.readline()
-            if line1.find("custom:"): #only add the name if it's custom
-                playlist_nammes.add((filename, True, line1))
-            else:
-                playlist_names.add((filename, False))
 
     readme_lines = []
-    for tup in playlist_nammes:
-        playlist_id=tup[0] #to avoid changing code, just set playlist_id this way
-        customBool=tup[1] #a boolean for whether or not the playlist has a name that differs from the official spotify one 
+    for playlist_id in playlist_ids:
         plain_path = "{}/{}".format(plain_dir, playlist_id)
 
         try:
-            playlis = spotify.get_playlist(playlist_id) #changed playlist to playlis because it's a tuple and we might need to change it, though there are more compact ways doing it, i'm trying to modify the minimum amount of code
-            if len(tup)>2 and not tup[2]==playlis[1]: #if there exists a name that differs from the one that spotify generated, then change the name element in playlist to the custom playlist name
-                playlist=Playlist(url=playlis[0], name=tup[2], description=playlis[2], tracks=playlis[3]) #create modified tuple if there is a custom name
-            else:
-                playlist=playlis #retain original tuple if there is no custom name
+            playlist = spotify.get_playlist(playlist_id)
         except PrivatePlaylistError:
             print("Removing private playlist: {}".format(playlist_id))
             os.remove(plain_path)
@@ -465,10 +449,10 @@ def update_files(now):
             pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
             cumulative_path = "{}/{}.md".format(cumulative_dir, playlist.name)
 
-            for path, func, flag, flag2 in [ #adds check to preserve the custom text so it won't always get overwritten
-                (plain_path, Formatter.plain, False, True),
-                (pretty_path, Formatter.pretty, False, False),
-                (cumulative_path, Formatter.cumulative, True, False),
+            for path, func, flag in [
+                (plain_path, Formatter.plain, False),
+                (pretty_path, Formatter.pretty, False),
+                (cumulative_path, Formatter.cumulative, True),
             ]:
                 try:
                     prev_content = "".join(open(path).readlines())
@@ -477,8 +461,6 @@ def update_files(now):
 
                 if flag:
                     args = [now, prev_content, playlist_id, playlist]
-                elif flag2 and customBool: #ensures it will only pass the modified data if the playlist actually has a custom name AND only to the plain file
-                    args = [playlist_id, Playlist(url=playlist[0], name="custom:"+playlist[1], description=playlist[2], tracks=playlist[3])] #sends a modified playlist tuple that includes "custom" at the beginning
                 else:
                     args = [playlist_id, playlist]
 
