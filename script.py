@@ -434,7 +434,8 @@ def update_files(now):
     for filename in os.listdir(plain_dir):
         with open(os.path.join(plain_dir, filename)) as f:
             line1 = f.readline()
-            if line1.find("custom:"): #only add the name if it's custom
+            print(line1)
+            if "custom:" in line1: #only add the name if it's custom
                 playlist_nammes.add((filename, True, line1))
             else:
                 playlist_nammes.add((filename, False))
