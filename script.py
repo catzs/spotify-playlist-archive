@@ -391,7 +391,7 @@ class Formatter:
 class URL:
 
     BASE = (
-        "https://github.com/mackorone/spotify-playlist-archive/"
+        "https://github.com/catzs/spotify-playlist-archive/"
         "blob/master/playlists/"
     )
 
@@ -560,7 +560,7 @@ def push_updates(now):
     # It's ok to print the token, Travis will hide it
     token = os.getenv("GITHUB_ACCESS_TOKEN")
     url = (
-        "https://mackorone-bot:{}@github.com/mackorone/"
+        "https://catzs:{}@github.com/catzs/"
         "spotify-playlist-archive.git".format(token)
     )
     remote_add = run(["git", "remote", "add", "origin", url])
