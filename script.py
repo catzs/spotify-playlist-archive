@@ -538,7 +538,7 @@ def push_updates(now):
 
     print("Committing changes")
 
-    build = os.getenv("TRAVIS_BUILD_NUMBER")
+    build = os.getenv("TRAVIS_BUILD_NUMBER") #not sure i need this?
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
     message = "[skip ci] Build #{} ({})".format(build, now_str)
     commit = run(["git", "commit", "-m", message])
