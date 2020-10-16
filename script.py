@@ -437,7 +437,7 @@ def update_files(now):
             if line1.find("custom:"): #only add the name if it's custom
                 playlist_nammes.add((filename, True, line1))
             else:
-                playlist_names.add((filename, False))
+                playlist_nammes.add((filename, False))
 
     readme_lines = []
     for tup in playlist_nammes:
