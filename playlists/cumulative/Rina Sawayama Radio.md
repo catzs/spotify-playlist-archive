@@ -2,7 +2,7 @@
 
 ### [Rina Sawayama Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dq1yGvTPwrh)
 
-> With Grimes, Shamir, Sevdaliza and more
+> With Charli XCX, Chloe x Halle, Kali Uchis and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

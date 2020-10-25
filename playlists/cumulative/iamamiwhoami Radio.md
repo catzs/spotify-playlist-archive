@@ -2,7 +2,7 @@
 
 ### [iamamiwhoami Radio](https://open.spotify.com/playlist/37i9dQZF1E4m6zo4rP3GS7)
 
-> With Chromatics, i_o, ANOHNI and more
+> With The Magician, Sky Ferreira, ionnalee and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

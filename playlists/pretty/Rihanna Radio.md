@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Rihanna Radio](https://open.spotify.com/playlist/37i9dQZF1E4nqrwpUzdAQS)
 
-> With SZA, Sia, Katy Perry and more
+> With Justin Timberlake, Selena Gomez & The Scene, Fifth Harmony and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

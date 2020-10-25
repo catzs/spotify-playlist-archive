@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Bebe Rexha Radio](https://open.spotify.com/playlist/37i9dQZF1E4EUS7H8nnimP)
 
-> With DNCE, Fifth Harmony, Camila Cabello and more
+> With Fifth Harmony, ZAYN, Sean Paul and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

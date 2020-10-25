@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Taylor Swift Radio](https://open.spotify.com/playlist/37i9dQZF1E4AfEUiirXPyP)
 
-> With Carrie Underwood, Zedd, Ty Dolla $ign and more
+> With Carrie Underwood, Shawn Mendes, Little Mix and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

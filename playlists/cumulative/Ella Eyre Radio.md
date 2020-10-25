@@ -2,7 +2,7 @@
 
 ### [Ella Eyre Radio](https://open.spotify.com/playlist/37i9dQZF1E4EabJwlTZMM6)
 
-> With Doja Cat, Jess Glynne, Sam Smith and more
+> With Martin Solveig, Years & Years, Bebe Rexha and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

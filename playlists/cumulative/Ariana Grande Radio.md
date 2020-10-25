@@ -2,7 +2,7 @@
 
 ### [Ariana Grande Radio](https://open.spotify.com/playlist/37i9dQZF1E4xstu1WxmJS4)
 
-> With Justin Bieber, Shawn Mendes, Dua Lipa and more
+> With Camila Cabello, Katy Perry, Selena Gomez and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

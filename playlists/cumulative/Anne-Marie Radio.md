@@ -2,7 +2,7 @@
 
 ### [Anne-Marie Radio](https://open.spotify.com/playlist/37i9dQZF1E4u4EgqVPw90j)
 
-> With Clean Bandit, Jessie J, Pia Mia and more
+> With DaBaby, Olivia O'Brien, Zara Larsson and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

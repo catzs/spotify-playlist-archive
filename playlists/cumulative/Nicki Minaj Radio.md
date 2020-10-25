@@ -2,7 +2,7 @@
 
 ### [Nicki Minaj Radio](https://open.spotify.com/playlist/37i9dQZF1E4mxfyRNNOPtb)
 
-> With The Neptunes, Kehlani, Miley Cyrus and more
+> With Megan Thee Stallion, Funk Wav, Chris Brown and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

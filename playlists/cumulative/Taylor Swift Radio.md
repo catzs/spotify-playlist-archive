@@ -2,7 +2,7 @@
 
 ### [Taylor Swift Radio](https://open.spotify.com/playlist/37i9dQZF1E4AfEUiirXPyP)
 
-> With Carrie Underwood, Zedd, Ty Dolla $ign and more
+> With Carrie Underwood, Shawn Mendes, Little Mix and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Charli XCX Radio](https://open.spotify.com/playlist/37i9dQZF1E4n5NkrPpNjuC)
 
-> With Carly Rae Jepsen, Dylan Brady, Bladee and more
+> With Kim Petras, LIZ, Sky Ferreira and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

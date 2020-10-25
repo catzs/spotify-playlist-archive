@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Tori Kelly Radio](https://open.spotify.com/playlist/37i9dQZF1E4mZXKq29VHMf)
 
-> With Sara Bareilles, Nicki Minaj, Quinn XCII and more
+> With Alessia Cara, Jesse McCartney, Nicki Minaj and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

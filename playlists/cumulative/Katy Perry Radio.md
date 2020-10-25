@@ -2,7 +2,7 @@
 
 ### [Katy Perry Radio](https://open.spotify.com/playlist/37i9dQZF1E4mMkvfFGsS30)
 
-> With Demi Lovato, Snoop Dogg, Grey and more
+> With Lady Gaga, Ariana Grande, Zedd and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

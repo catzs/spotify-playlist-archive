@@ -6,8 +6,10 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [911](https://open.spotify.com/track/7kGzRFB4zgFBgMROhpEqj4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Pop Para Tomar Café](https://open.spotify.com/album/137UMRFHstsgxsVx4bGdas) | 2:52 | 2020-10-25 |  |
-| [Airpods](https://open.spotify.com/track/0RSyLXqmByI5ZHg5qj4jRe) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Pop Para Tomar Café](https://open.spotify.com/album/137UMRFHstsgxsVx4bGdas) | 2:12 | 2020-10-25 |  |
+| [911](https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:52 | 2020-10-25 |  |
+| [911](https://open.spotify.com/track/7kGzRFB4zgFBgMROhpEqj4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Pop Para Tomar Café](https://open.spotify.com/album/137UMRFHstsgxsVx4bGdas) | 2:52 | 2020-10-25 | 2020-10-25 |
+| [Airpods](https://open.spotify.com/track/2bDNedM4lTAl4P2mfqoh8e) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Leave It Beautiful](https://open.spotify.com/album/03Q0yM29DQVoPbja9aMq0X) | 2:12 | 2020-10-25 |  |
+| [Airpods](https://open.spotify.com/track/0RSyLXqmByI5ZHg5qj4jRe) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Pop Para Tomar Café](https://open.spotify.com/album/137UMRFHstsgxsVx4bGdas) | 2:12 | 2020-10-25 | 2020-10-25 |
 | [Akasaka Sad](https://open.spotify.com/track/32umfTzGdXsWOTNaRGR5hd) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:02 | 2020-10-25 |  |
 | [Anaconda](https://open.spotify.com/track/7zycSpvjDcqh6YT1FEl2kY) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint (Deluxe Edition)](https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC) | 4:20 | 2020-10-25 |  |
 | [Babylon](https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:41 | 2020-10-25 |  |

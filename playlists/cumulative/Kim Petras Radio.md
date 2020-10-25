@@ -2,7 +2,7 @@
 
 ### [Kim Petras Radio](https://open.spotify.com/playlist/37i9dQZF1E4AmdoYf3abXY)
 
-> With Carly Rae Jepsen, MUNA, cupcakKe and more
+> With Tove Lo, MUNA, Rina Sawayama and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

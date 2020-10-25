@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Ella Eyre Radio](https://open.spotify.com/playlist/37i9dQZF1E4EabJwlTZMM6)
 
-> With Doja Cat, Jess Glynne, Sam Smith and more
+> With Martin Solveig, Years & Years, Bebe Rexha and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

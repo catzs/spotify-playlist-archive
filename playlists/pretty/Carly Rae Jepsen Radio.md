@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Carly Rae Jepsen Radio](https://open.spotify.com/playlist/37i9dQZF1E4EmGFMzkENF2)
 
-> With Caroline Polachek, Hippie Sabotage, Azealia Banks and more
+> With Poppy, Gordi, King Princess and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

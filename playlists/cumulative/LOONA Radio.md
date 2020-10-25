@@ -2,7 +2,7 @@
 
 ### [LOONA Radio](https://open.spotify.com/playlist/37i9dQZF1E4uHjJxoEinlY)
 
-> With Red Velvet, Red Velvet - IRENE & SEULGI, TWICE and more
+> With MAMAMOO, Red Velvet - IRENE & SEULGI, CHUNG HA and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

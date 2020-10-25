@@ -2,7 +2,7 @@
 
 ### [Betty Who Radio](https://open.spotify.com/playlist/37i9dQZF1E4vDS5kv5RmEo)
 
-> With LÉON, PVRIS, Alex Newell and more
+> With Allie X, FRENSHIP, Kim Petras and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

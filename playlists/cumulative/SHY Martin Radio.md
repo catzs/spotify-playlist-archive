@@ -2,7 +2,7 @@
 
 ### [SHY Martin Radio](https://open.spotify.com/playlist/37i9dQZF1E4xdD179lgvAc)
 
-> With AJ Mitchell, Matoma, GASHI and more
+> With Chelsea Cutler, Seeb, Nea and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

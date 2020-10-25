@@ -2,7 +2,7 @@
 
 ### [Camila Cabello Radio](https://open.spotify.com/playlist/37i9dQZF1E4o3n1vA5RVRd)
 
-> With ZAYN, Jason Derulo, AJ Mitchell and more
+> With Quavo, Little Mix, Madison Beer and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

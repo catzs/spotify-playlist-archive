@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Demi Lovato Radio](https://open.spotify.com/playlist/37i9dQZF1E4C9H2rljyRBR)
 
-> With Jonas Brothers, Christina Perri, Sam Feldt and more
+> With Miley Cyrus, Kesha, Christina Perri and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

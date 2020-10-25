@@ -2,7 +2,7 @@
 
 ### [Billie Eilish Radio](https://open.spotify.com/playlist/37i9dQZF1E4oee5QSbfqLN)
 
-> With Alec Benjamin, Labrinth, Niall Horan and more
+> With Ashnikko, Conan Gray, ZAYN and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

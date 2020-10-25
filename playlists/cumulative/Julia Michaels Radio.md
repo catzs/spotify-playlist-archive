@@ -2,7 +2,7 @@
 
 ### [Julia Michaels Radio](https://open.spotify.com/playlist/37i9dQZF1E4vs6jvq0Q4EX)
 
-> With Tate McRae, Camila Cabello, Madison Beer and more
+> With Bebe Rexha, Ruth B., Bea Miller and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

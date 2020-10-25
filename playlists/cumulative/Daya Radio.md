@@ -2,7 +2,7 @@
 
 ### [Daya Radio](https://open.spotify.com/playlist/37i9dQZF1E4FhJpQJRO2D2)
 
-> With Kito, Loote, Doja Cat and more
+> With Olivia O'Brien, Sabrina Carpenter, watt and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Anne-Marie Radio](https://open.spotify.com/playlist/37i9dQZF1E4u4EgqVPw90j)
 
-> With Clean Bandit, Jessie J, Pia Mia and more
+> With DaBaby, Olivia O'Brien, Zara Larsson and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

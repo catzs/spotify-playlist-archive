@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Kacey Musgraves Radio](https://open.spotify.com/playlist/37i9dQZF1E4x0YCgW2G45O)
 
-> With Kip Moore, Charlie Puth, Pistol Annies and more
+> With Carrie Underwood, Miranda Lambert, Brothers Osborne and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

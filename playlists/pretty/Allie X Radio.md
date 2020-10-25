@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Allie X Radio](https://open.spotify.com/playlist/37i9dQZF1E4Cg1YYrd1Os8)
 
-> With Charli XCX, Aly & AJ, Troye Sivan and more
+> With Kehlani, Zella Day, Terror Jr and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [MARINA Radio](https://open.spotify.com/playlist/37i9dQZF1E4tJ3C2Jji1T9)
 
-> With Lykke Li, Carly Rae Jepsen, Mitski and more
+> With La Roux, Tyler, The Creator, Lykke Li and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Avril Lavigne Radio](https://open.spotify.com/playlist/37i9dQZF1E4oBgqEoRNNGu)
 
-> With Ariana Grande, Fifth Harmony, The All-American Rejects and more
+> With Jessie J, Ty Dolla $ign, Jordin Sparks and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

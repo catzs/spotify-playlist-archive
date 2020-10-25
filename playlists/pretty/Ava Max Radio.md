@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Ava Max Radio](https://open.spotify.com/playlist/37i9dQZF1E4ppGtqqkuRvH)
 
-> With Sigala, Ellie Goulding, Jonas Blue and more
+> With Sigala, Captain Cuts, Nicki Minaj and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

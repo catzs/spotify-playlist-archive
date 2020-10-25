@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [SHY Martin Radio](https://open.spotify.com/playlist/37i9dQZF1E4xdD179lgvAc)
 
-> With AJ Mitchell, Matoma, GASHI and more
+> With Chelsea Cutler, Seeb, Nea and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

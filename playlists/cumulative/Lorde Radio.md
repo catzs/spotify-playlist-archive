@@ -2,7 +2,7 @@
 
 ### [Lorde Radio](https://open.spotify.com/playlist/37i9dQZF1E4FIgyPlgKOlU)
 
-> With ROLE MODEL, Carly Rae Jepsen, Clairo and more
+> With Troye Sivan, Lana Del Rey, BØRNS and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

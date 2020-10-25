@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Ellie Goulding, Demi Lovato, Swae Lee and more
+> With Dua Lipa, Beyoncé, Nate Ruess and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

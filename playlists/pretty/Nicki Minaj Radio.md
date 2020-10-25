@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Nicki Minaj Radio](https://open.spotify.com/playlist/37i9dQZF1E4mxfyRNNOPtb)
 
-> With The Neptunes, Kehlani, Miley Cyrus and more
+> With Megan Thee Stallion, Funk Wav, Chris Brown and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

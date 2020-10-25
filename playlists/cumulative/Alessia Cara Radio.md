@@ -2,7 +2,7 @@
 
 ### [Alessia Cara Radio](https://open.spotify.com/playlist/37i9dQZF1E4vNDfTBTUyM3)
 
-> With Julia Michaels, Olivia O'Brien, Nick Jonas and more
+> With ZAYN, Camila Cabello, Why Don't We and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

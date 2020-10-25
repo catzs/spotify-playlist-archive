@@ -2,7 +2,7 @@
 
 ### [Kacey Musgraves Radio](https://open.spotify.com/playlist/37i9dQZF1E4x0YCgW2G45O)
 
-> With Kip Moore, Charlie Puth, Pistol Annies and more
+> With Carrie Underwood, Miranda Lambert, Brothers Osborne and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

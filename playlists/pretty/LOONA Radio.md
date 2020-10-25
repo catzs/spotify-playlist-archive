@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [LOONA Radio](https://open.spotify.com/playlist/37i9dQZF1E4uHjJxoEinlY)
 
-> With Red Velvet, Red Velvet - IRENE & SEULGI, TWICE and more
+> With MAMAMOO, Red Velvet - IRENE & SEULGI, CHUNG HA and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

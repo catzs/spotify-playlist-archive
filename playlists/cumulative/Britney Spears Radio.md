@@ -2,7 +2,7 @@
 
 ### [Britney Spears Radio](https://open.spotify.com/playlist/37i9dQZF1E4nr6hJNUgTDh)
 
-> With Destiny's Child, Avril Lavigne, Fifth Harmony and more
+> With Destiny's Child, Pitbull, Kelly Clarkson and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

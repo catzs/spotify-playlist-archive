@@ -2,7 +2,7 @@
 
 ### [Ellie Goulding Radio](https://open.spotify.com/playlist/37i9dQZF1E4kOJGUbKBqjJ)
 
-> With Carly Rae Jepsen, Lennon Stella, Bea Miller and more
+> With Camila Cabello, Selena Gomez, Bebe Rexha and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

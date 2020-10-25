@@ -2,7 +2,7 @@
 
 ### [Halsey Radio](https://open.spotify.com/playlist/37i9dQZF1E4oLwlqvXisyU)
 
-> With Melanie Martinez, Bea Miller, Astrid S and more
+> With NOTD, Zara Larsson, Sasha Sloan and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

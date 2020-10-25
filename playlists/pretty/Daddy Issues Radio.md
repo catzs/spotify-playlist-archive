@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Daddy Issues Radio](https://open.spotify.com/playlist/37i9dQZF1E8ACEnwvMau4r)
 
-> With Demi Lovato, Hailee Steinfeld, Nick Jonas, Selena Gomez and more
+> With Demi Lovato, Alesso, Halsey, Hayley Kiyoko and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

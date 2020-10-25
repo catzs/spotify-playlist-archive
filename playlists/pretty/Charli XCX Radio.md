@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Charli XCX Radio](https://open.spotify.com/playlist/37i9dQZF1E4n5NkrPpNjuC)
 
-> With Carly Rae Jepsen, Dylan Brady, Bladee and more
+> With Kim Petras, LIZ, Sky Ferreira and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

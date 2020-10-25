@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Kim Petras, Chairlift, HEALTH and more
+> With Caroline Polachek, FKA twigs, Kim Petras and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

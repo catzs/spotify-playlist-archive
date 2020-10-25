@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Kim Petras Radio](https://open.spotify.com/playlist/37i9dQZF1E4AmdoYf3abXY)
 
-> With Carly Rae Jepsen, MUNA, cupcakKe and more
+> With Tove Lo, MUNA, Rina Sawayama and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

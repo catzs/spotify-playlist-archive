@@ -2,7 +2,7 @@
 
 ### [BLACKPINK Radio](https://open.spotify.com/playlist/37i9dQZF1E4m0uHm6DE1DC)
 
-> With EVERGLOW, Hwa Sa, CLC and more
+> With SUNMI, (G)I-DLE, Selena Gomez and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

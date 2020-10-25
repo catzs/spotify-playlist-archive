@@ -2,7 +2,7 @@
 
 ### [Dua Lipa Radio](https://open.spotify.com/playlist/37i9dQZF1E4yMj4BGCYzsQ)
 
-> With John Legend, James Arthur, Mabel and more
+> With Ty Dolla $ign, James Arthur, ZAYN and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

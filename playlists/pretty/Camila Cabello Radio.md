@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Camila Cabello Radio](https://open.spotify.com/playlist/37i9dQZF1E4o3n1vA5RVRd)
 
-> With ZAYN, Jason Derulo, AJ Mitchell and more
+> With Quavo, Little Mix, Madison Beer and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Natalia Kills Radio](https://open.spotify.com/playlist/37i9dQZF1E4oiPcqKEwLwn)
 
-> With Poppy, Bree Runway, Tommy Genesis and more
+> With Azealia Banks, Cher Lloyd, Charli XCX and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

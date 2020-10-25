@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Ariana Grande Radio](https://open.spotify.com/playlist/37i9dQZF1E4xstu1WxmJS4)
 
-> With Justin Bieber, Shawn Mendes, Dua Lipa and more
+> With Camila Cabello, Katy Perry, Selena Gomez and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

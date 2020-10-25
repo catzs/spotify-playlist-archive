@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Halsey Radio](https://open.spotify.com/playlist/37i9dQZF1E4oLwlqvXisyU)
 
-> With Melanie Martinez, Bea Miller, Astrid S and more
+> With NOTD, Zara Larsson, Sasha Sloan and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
