@@ -7,6 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Backstabber](https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal (Expanded Edition)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:06 | 2020-10-16 |  |
+| [Best Day (Angry Birds 2 Remix)](https://open.spotify.com/track/2eh4qe6wmq7he6O76CS0o3) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Best Day (Angry Birds 2 Remix)](https://open.spotify.com/album/5x9vJFGBCTnxu8gcG4xoTd) | 2:59 | 2020-10-25 |  |
 | [Birthday Suit](https://open.spotify.com/track/41DBopd0o6IX2N8sjTE0AJ) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:56 | 2020-10-16 |  |
 | [Blah Blah Blah (feat. 3OH!3)](https://open.spotify.com/track/7lWUJpax919G4JdaFEVmCy) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [Animal (Expanded Edition)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 2:52 | 2020-10-16 |  |
 | [Blow](https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal (Expanded Edition)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:39 | 2020-10-16 |  |
