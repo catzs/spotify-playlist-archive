@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Demi Lovato Radio](https://open.spotify.com/playlist/37i9dQZF1E4C9H2rljyRBR)
 
-> With Kesha, Avril Lavigne, Nicki Minaj and more
+> With Selena Gomez, Doja Cat, Pia Mia and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

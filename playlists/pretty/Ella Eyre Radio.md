@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Ella Eyre Radio](https://open.spotify.com/playlist/37i9dQZF1E4EabJwlTZMM6)
 
-> With MK, Raphaella, Shift K3Y and more
+> With Sonny Fodera, Europa, Becky Hill and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Allie X Radio](https://open.spotify.com/playlist/37i9dQZF1E4Cg1YYrd1Os8)
 
-> With Poppy, Troye Sivan, VÉRITÉ and more
+> With Sigrid, MARINA, Caroline Polachek and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

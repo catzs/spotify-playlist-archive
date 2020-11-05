@@ -2,7 +2,7 @@
 
 ### [Nicki Minaj Radio](https://open.spotify.com/playlist/37i9dQZF1E4mxfyRNNOPtb)
 
-> With Busta Rhymes, Jeremih, SZA and more
+> With Lil Wayne, Miley Cyrus, 2 Chainz and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

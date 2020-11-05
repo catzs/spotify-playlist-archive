@@ -2,7 +2,7 @@
 
 ### [SHY Martin Radio](https://open.spotify.com/playlist/37i9dQZF1E4xdD179lgvAc)
 
-> With Loote, Bea Miller, Boy In Space and more
+> With Jeremy Zucker, Elina, Justin Jesso and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

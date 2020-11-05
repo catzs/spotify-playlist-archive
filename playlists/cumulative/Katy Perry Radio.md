@@ -2,7 +2,7 @@
 
 ### [Katy Perry Radio](https://open.spotify.com/playlist/37i9dQZF1E4mMkvfFGsS30)
 
-> With Kesha, Taio Cruz, KAROL G and more
+> With P!nk, Flo Rida, Leona Lewis and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

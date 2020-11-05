@@ -2,7 +2,7 @@
 
 ### [Britney Spears Radio](https://open.spotify.com/playlist/37i9dQZF1E4nr6hJNUgTDh)
 
-> With Tinashe, Alice Chater, Styles P and more
+> With Snoop Dogg, Tinashe, Iggy Azalea and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

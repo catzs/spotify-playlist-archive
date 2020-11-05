@@ -2,7 +2,7 @@
 
 ### [Rihanna Radio](https://open.spotify.com/playlist/37i9dQZF1E4nqrwpUzdAQS)
 
-> With Kesha, Beyoncé, Saweetie and more
+> With Ariana Grande, Nicki Minaj, Lil Jon and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

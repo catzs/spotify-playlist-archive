@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Rihanna Radio](https://open.spotify.com/playlist/37i9dQZF1E4nqrwpUzdAQS)
 
-> With Kesha, Beyoncé, Saweetie and more
+> With Ariana Grande, Nicki Minaj, Lil Jon and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

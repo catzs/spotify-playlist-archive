@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Ellie Goulding Radio](https://open.spotify.com/playlist/37i9dQZF1E4kOJGUbKBqjJ)
 
-> With Bea Miller, Sia, Griff and more
+> With Camila Cabello, Maia Wright, Clean Bandit and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Dua Lipa Radio](https://open.spotify.com/playlist/37i9dQZF1E4yMj4BGCYzsQ)
 
-> With Ariana Grande, Ava Max, Hailee Steinfeld and more
+> With Mabel, Anne-Marie, Harry Styles and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

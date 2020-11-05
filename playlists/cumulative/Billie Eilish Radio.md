@@ -2,7 +2,7 @@
 
 ### [Billie Eilish Radio](https://open.spotify.com/playlist/37i9dQZF1E4oee5QSbfqLN)
 
-> With Olivia O'Brien, Conan Gray, FINNEAS and more
+> With Conan Gray, Lorde, Clairo and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

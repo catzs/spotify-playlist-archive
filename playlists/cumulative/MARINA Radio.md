@@ -2,7 +2,7 @@
 
 ### [MARINA Radio](https://open.spotify.com/playlist/37i9dQZF1E4tJ3C2Jji1T9)
 
-> With Melanie Martinez, Lykke Li, The Magician and more
+> With Ricky Montgomery, The Magician, Zella Day and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

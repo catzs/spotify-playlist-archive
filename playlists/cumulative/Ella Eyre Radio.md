@@ -2,7 +2,7 @@
 
 ### [Ella Eyre Radio](https://open.spotify.com/playlist/37i9dQZF1E4EabJwlTZMM6)
 
-> With MK, Raphaella, Shift K3Y and more
+> With Sonny Fodera, Europa, Becky Hill and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

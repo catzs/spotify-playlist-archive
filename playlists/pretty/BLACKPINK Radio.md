@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [BLACKPINK Radio](https://open.spotify.com/playlist/37i9dQZF1E4m0uHm6DE1DC)
 
-> With Seraphine, KARD, IZ*ONE and more
+> With ITZY, Jaira Burns, Red Velvet - IRENE & SEULGI and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

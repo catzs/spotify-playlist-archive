@@ -2,7 +2,7 @@
 
 ### [Ellie Goulding Radio](https://open.spotify.com/playlist/37i9dQZF1E4kOJGUbKBqjJ)
 
-> With Bea Miller, Sia, Griff and more
+> With Camila Cabello, Maia Wright, Clean Bandit and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

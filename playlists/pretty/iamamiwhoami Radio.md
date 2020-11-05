@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [iamamiwhoami Radio](https://open.spotify.com/playlist/37i9dQZF1E4m6zo4rP3GS7)
 
-> With Chromatics, The Knife, Róisín Murphy and more
+> With Robert Smith, Fever Ray, Big Freedia and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

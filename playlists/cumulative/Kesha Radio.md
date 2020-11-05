@@ -2,7 +2,7 @@
 
 ### [Kesha Radio](https://open.spotify.com/playlist/37i9dQZF1E4A0wlhq5wu0V)
 
-> With Miley Cyrus, Sean Kingston, Bea Miller and more
+> With Demi Lovato, Tyga, Britney Spears and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

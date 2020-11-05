@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Camila Cabello Radio](https://open.spotify.com/playlist/37i9dQZF1E4o3n1vA5RVRd)
 
-> With DaBaby, Ava Max, benny blanco and more
+> With Justin Bieber, Ty Dolla $ign, Anne-Marie and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

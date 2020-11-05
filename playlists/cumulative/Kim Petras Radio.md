@@ -2,7 +2,7 @@
 
 ### [Kim Petras Radio](https://open.spotify.com/playlist/37i9dQZF1E4AmdoYf3abXY)
 
-> With Charli XCX, lil aaron, MUNA and more
+> With Natalia Kills, Allie X, Charli XCX and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

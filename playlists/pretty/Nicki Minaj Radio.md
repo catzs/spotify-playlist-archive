@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Nicki Minaj Radio](https://open.spotify.com/playlist/37i9dQZF1E4mxfyRNNOPtb)
 
-> With Busta Rhymes, Jeremih, SZA and more
+> With Lil Wayne, Miley Cyrus, 2 Chainz and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Julia Michaels Radio](https://open.spotify.com/playlist/37i9dQZF1E4vs6jvq0Q4EX)
 
-> With Camila Cabello, ZAYN, Bebe Rexha and more
+> With AJ Mitchell, DaBaby, Astrid S and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

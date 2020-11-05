@@ -2,7 +2,7 @@
 
 ### [Rina Sawayama Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dq1yGvTPwrh)
 
-> With Tommy Genesis, Jorja Smith, Joey Bada$$ and more
+> With Kali Uchis, Sevdaliza, Troye Sivan and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

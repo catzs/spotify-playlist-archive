@@ -2,7 +2,7 @@
 
 ### [Betty Who Radio](https://open.spotify.com/playlist/37i9dQZF1E4vDS5kv5RmEo)
 
-> With Broods, VÉRITÉ, FLETCHER and more
+> With MisterWives, Vanic, Kito and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

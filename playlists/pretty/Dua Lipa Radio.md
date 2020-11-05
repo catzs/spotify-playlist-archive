@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Dua Lipa Radio](https://open.spotify.com/playlist/37i9dQZF1E4yMj4BGCYzsQ)
 
-> With Ariana Grande, Ava Max, Hailee Steinfeld and more
+> With Mabel, Anne-Marie, Harry Styles and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

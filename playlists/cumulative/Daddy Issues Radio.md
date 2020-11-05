@@ -2,7 +2,7 @@
 
 ### [Daddy Issues Radio](https://open.spotify.com/playlist/37i9dQZF1E8ACEnwvMau4r)
 
-> With Demi Lovato, Camila Cabello, Lil Wayne, The Dap-Kings Horns and more
+> With Demi Lovato, Ty Dolla $ign, Nick Jonas, Rita Ora and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

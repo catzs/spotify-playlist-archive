@@ -2,7 +2,7 @@
 
 ### [Bebe Rexha Radio](https://open.spotify.com/playlist/37i9dQZF1E4EUS7H8nnimP)
 
-> With CADE, Halsey, Astrid S and more
+> With AJ Mitchell, G-Eazy, ZAYN and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

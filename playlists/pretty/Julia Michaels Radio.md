@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Julia Michaels Radio](https://open.spotify.com/playlist/37i9dQZF1E4vs6jvq0Q4EX)
 
-> With Camila Cabello, ZAYN, Bebe Rexha and more
+> With AJ Mitchell, DaBaby, Astrid S and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Sigrid Radio](https://open.spotify.com/playlist/37i9dQZF1E4vSsX3DEvRfB)
 
-> With Allie X, Anna of the North, Maggie Rogers and more
+> With Anna of the North, Maggie Rogers, Dagny and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [SHY Martin Radio](https://open.spotify.com/playlist/37i9dQZF1E4xdD179lgvAc)
 
-> With Loote, Bea Miller, Boy In Space and more
+> With Jeremy Zucker, Elina, Justin Jesso and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

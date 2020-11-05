@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [AURORA Radio](https://open.spotify.com/playlist/37i9dQZF1E4mau3yRxRG2A)
 
-> With Allie X, Hayley Williams, Au/Ra and more
+> With Lewis Watson, Clarice Falcão, Ruelle and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [LOONA Radio](https://open.spotify.com/playlist/37i9dQZF1E4uHjJxoEinlY)
 
-> With Bea Miller, Seraphine, DREAMCATCHER and more
+> With Madison Beer, Jaira Burns, Lovelyz and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

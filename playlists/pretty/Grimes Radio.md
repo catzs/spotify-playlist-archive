@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Beach House, Tei Shi, Lil Yachty and more
+> With Troye Sivan, Blood Diamonds, Chromatics and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Daya Radio](https://open.spotify.com/playlist/37i9dQZF1E4FhJpQJRO2D2)
 
-> With Alessia Cara, Cheat Codes, Demi Lovato and more
+> With Zara Larsson, Florida Georgia Line, Nina Nesbitt and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

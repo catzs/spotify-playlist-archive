@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Lorde Radio](https://open.spotify.com/playlist/37i9dQZF1E4FIgyPlgKOlU)
 
-> With Wallows, Tove Lo, HAIM and more
+> With Lana Del Rey, Lily Allen, Maggie Rogers and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

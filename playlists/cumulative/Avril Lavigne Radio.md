@@ -2,7 +2,7 @@
 
 ### [Avril Lavigne Radio](https://open.spotify.com/playlist/37i9dQZF1E4oBgqEoRNNGu)
 
-> With Simple Plan, The Wanted, Christina Perri and more
+> With Nicki Minaj, Demi Lovato, Tinashe and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

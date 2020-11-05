@@ -2,7 +2,7 @@
 
 ### [Alessia Cara Radio](https://open.spotify.com/playlist/37i9dQZF1E4vNDfTBTUyM3)
 
-> With Bebe Rexha, Selena Gomez, Grey and more
+> With Zara Larsson, DaBaby, Selena Gomez and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Katy Perry Radio](https://open.spotify.com/playlist/37i9dQZF1E4mMkvfFGsS30)
 
-> With Kesha, Taio Cruz, KAROL G and more
+> With P!nk, Flo Rida, Leona Lewis and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

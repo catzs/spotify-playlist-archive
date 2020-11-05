@@ -2,7 +2,7 @@
 
 ### [Demi Lovato Radio](https://open.spotify.com/playlist/37i9dQZF1E4C9H2rljyRBR)
 
-> With Kesha, Avril Lavigne, Nicki Minaj and more
+> With Selena Gomez, Doja Cat, Pia Mia and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

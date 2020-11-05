@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Ava Max Radio](https://open.spotify.com/playlist/37i9dQZF1E4ppGtqqkuRvH)
 
-> With 24kGoldn, NEIMY, Madison Beer and more
+> With Clean Bandit, Tones And I, Nico Santos and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

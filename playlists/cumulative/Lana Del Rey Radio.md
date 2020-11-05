@@ -2,7 +2,7 @@
 
 ### [Lana Del Rey Radio](https://open.spotify.com/playlist/37i9dQZF1E4sa1kOvRGgMb)
 
-> With Melanie Martinez, Florence + The Machine, Lykke Li and more
+> With BØRNS, Noah Cyrus, Troye Sivan and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

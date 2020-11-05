@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Britney Spears Radio](https://open.spotify.com/playlist/37i9dQZF1E4nr6hJNUgTDh)
 
-> With Tinashe, Alice Chater, Styles P and more
+> With Snoop Dogg, Tinashe, Iggy Azalea and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

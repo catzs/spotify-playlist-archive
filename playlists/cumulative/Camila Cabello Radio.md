@@ -2,7 +2,7 @@
 
 ### [Camila Cabello Radio](https://open.spotify.com/playlist/37i9dQZF1E4o3n1vA5RVRd)
 
-> With DaBaby, Ava Max, benny blanco and more
+> With Justin Bieber, Ty Dolla $ign, Anne-Marie and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Charli XCX Radio](https://open.spotify.com/playlist/37i9dQZF1E4n5NkrPpNjuC)
 
-> With MARINA, Bladee, Yves Tumor and more
+> With Rina Sawayama, Ecco2k, Grimes and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

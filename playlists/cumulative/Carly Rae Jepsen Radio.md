@@ -2,7 +2,7 @@
 
 ### [Carly Rae Jepsen Radio](https://open.spotify.com/playlist/37i9dQZF1E4EmGFMzkENF2)
 
-> With Kim Petras, MARINA, Khalid and more
+> With Lorde, Troye Sivan, King Princess and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

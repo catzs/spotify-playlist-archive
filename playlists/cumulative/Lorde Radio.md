@@ -2,7 +2,7 @@
 
 ### [Lorde Radio](https://open.spotify.com/playlist/37i9dQZF1E4FIgyPlgKOlU)
 
-> With Wallows, Tove Lo, HAIM and more
+> With Lana Del Rey, Lily Allen, Maggie Rogers and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

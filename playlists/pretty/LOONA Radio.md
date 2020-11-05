@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [LOONA Radio](https://open.spotify.com/playlist/37i9dQZF1E4uHjJxoEinlY)
 
-> With Bea Miller, Seraphine, DREAMCATCHER and more
+> With Madison Beer, Jaira Burns, Lovelyz and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

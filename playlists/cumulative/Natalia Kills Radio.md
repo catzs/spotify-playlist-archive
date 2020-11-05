@@ -2,7 +2,7 @@
 
 ### [Natalia Kills Radio](https://open.spotify.com/playlist/37i9dQZF1E4oiPcqKEwLwn)
 
-> With Slayyyter, Mitski, Alan Walker and more
+> With Kim Petras, Rina Sawayama, Allie X and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

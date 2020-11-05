@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Anne-Marie Radio](https://open.spotify.com/playlist/37i9dQZF1E4u4EgqVPw90j)
 
-> With 24kGoldn, Bea Miller, NOTD and more
+> With Olivia O'Brien, Young Thug, Sigala and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

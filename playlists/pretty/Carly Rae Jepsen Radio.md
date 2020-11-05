@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Carly Rae Jepsen Radio](https://open.spotify.com/playlist/37i9dQZF1E4EmGFMzkENF2)
 
-> With Kim Petras, MARINA, Khalid and more
+> With Lorde, Troye Sivan, King Princess and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

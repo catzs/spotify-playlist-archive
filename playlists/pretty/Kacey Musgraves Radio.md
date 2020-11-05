@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/catzs/spotify-playlist-archive/blob/mas
 
 ### [Kacey Musgraves Radio](https://open.spotify.com/playlist/37i9dQZF1E4x0YCgW2G45O)
 
-> With Lennon Stella, Eli Young Band, Hunter Hayes and more
+> With King Princess, Hunter Hayes, Maggie Rogers and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

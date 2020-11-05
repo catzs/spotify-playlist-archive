@@ -2,7 +2,7 @@
 
 ### [Tori Kelly Radio](https://open.spotify.com/playlist/37i9dQZF1E4mZXKq29VHMf)
 
-> With Kiana Ledé, John Legend, Ari Lennox and more
+> With Kiana Ledé, Travis Atreo, Jeremy Passion and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
