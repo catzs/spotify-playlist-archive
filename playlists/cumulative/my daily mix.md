@@ -1,6 +1,6 @@
-[pretty](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/pretty/my%20daily%20mix.md) - cumulative - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/5MlNGO5UmKkxAyKfgB9Jg7) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/5MlNGO5UmKkxAyKfgB9Jg7))
+[pretty](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/pretty/my%20daily%20mix.md) - cumulative - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/02UHKupWQGdJj4LJsqAfwS) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/02UHKupWQGdJj4LJsqAfwS))
 
-### [my daily mix](https://open.spotify.com/playlist/5MlNGO5UmKkxAyKfgB9Jg7)
+### [my daily mix](https://open.spotify.com/playlist/02UHKupWQGdJj4LJsqAfwS)
 
 > 
 
