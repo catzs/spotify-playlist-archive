@@ -1,6 +1,6 @@
-[pretty](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/pretty/my%20daily%20mix.md) - cumulative - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/02UHKupWQGdJj4LJsqAfwS) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/02UHKupWQGdJj4LJsqAfwS))
+[pretty](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/pretty/my%20daily%20mix.md) - cumulative - [plain](https://github.com/catzs/spotify-playlist-archive/blob/master/playlists/plain/5MlNGO5UmKkxAyKfgB9Jg7) ([githistory](https://github.githistory.xyz/catzs/spotify-playlist-archive/blob/master/playlists/plain/5MlNGO5UmKkxAyKfgB9Jg7))
 
-### [my daily mix](https://open.spotify.com/playlist/02UHKupWQGdJj4LJsqAfwS)
+### [my daily mix](https://open.spotify.com/playlist/5MlNGO5UmKkxAyKfgB9Jg7)
 
 > 
 
@@ -34,6 +34,7 @@
 | [Kill This Love](https://open.spotify.com/track/18PergoIrGmRyeYxnaXJN2) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) | 3:09 | 2020-10-25 |  |
 | [Kinky (feat. Ke$ha)](https://open.spotify.com/track/4Uyh4uFtztCHfd65ywHCL5) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:25 | 2020-10-25 |  |
 | [LLC](https://open.spotify.com/track/0mlJoKzEY0kyTXwSr7k3H7) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen (Deluxe)](https://open.spotify.com/album/6zA5X3CQ5rgLKhTobyV5Id) | 3:41 | 2020-10-25 |  |
+| Love Me Right | Lady Gaga | Chromatica | 2:50 | 2020-11-21 |  |
 | [Love To Hate Me](https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:49 | 2020-10-25 | 2020-11-01 |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:12 | 2020-10-25 |  |
 | [Majesty (with Labrinth & feat. Eminem)](https://open.spotify.com/track/01s1HGlw9yqT0U242yffBb) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Queen (Deluxe)](https://open.spotify.com/album/6zA5X3CQ5rgLKhTobyV5Id) | 4:55 | 2020-10-25 |  |
